@@ -1,3 +1,6 @@
 [submodule "pcb/Keebio-Parts.pretty"]
 	path = pcb/Keebio-Parts.pretty
 	url = https://github.com/keebio/Keebio-Parts.pretty.git
+[submodule "pcb/marbastlib"]
+	path = pcb/marbastlib
+	url = https://github.com/ebastler/marbastlib.git
