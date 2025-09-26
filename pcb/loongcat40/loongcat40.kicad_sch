@@ -3487,6 +3487,50 @@
 			)
 		)
 	)
+	(global_label "COL_3"
+		(shape input)
+		(at 20.32 49.53 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "0900fb60-8523-4c0b-9360-0dcb4f869c4b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 11.5291 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "BL"
+		(shape input)
+		(at 66.04 162.56 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "130569e1-568a-46b1-bb9c-010f0e34c7db")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 60.7567 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "SDA"
 		(shape input)
 		(at 66.04 152.4 180)
@@ -3527,6 +3571,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "COL_9"
+		(shape input)
+		(at 66.04 59.69 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "206bd036-4b7a-4eb8-a643-9486bead43d1")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 74.8309 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -3621,6 +3687,28 @@
 	)
 	(global_label "CS"
 		(shape input)
+		(at 66.04 49.53 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4aff6eb5-faac-4b29-bb40-6c747ba3ab4e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 71.5047 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "CS"
+		(shape input)
 		(at 66.04 160.02 180)
 		(fields_autoplaced yes)
 		(effects
@@ -3632,6 +3720,28 @@
 		(uuid "5293963b-b38c-4e0c-9f58-2e1b7cce5468")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 60.5753 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ROW_3"
+		(shape input)
+		(at 20.32 64.77 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "52e12199-3e20-4059-acc0-ea616d76affe")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 11.1058 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3751,6 +3861,50 @@
 			)
 		)
 	)
+	(global_label "ROW_4"
+		(shape input)
+		(at 20.32 67.31 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7b2f24b4-7c81-4c06-b61c-98fac8f0e0c7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 11.1058 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "COL_4"
+		(shape input)
+		(at 20.32 52.07 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7d951ffb-10d5-4a0e-b043-e768653d8adc")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 11.5291 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "COL_9"
 		(shape input)
 		(at 246.38 31.75 0)
@@ -3769,6 +3923,50 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DC"
+		(shape input)
+		(at 20.32 82.55 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8bd5cd22-9ede-4a54-ac4c-ed1bf7435d15")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 14.7948 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "COL_1"
+		(shape input)
+		(at 20.32 44.45 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "95e538b4-c7c7-4018-b49d-51b149d980ea")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 11.5291 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -3795,6 +3993,50 @@
 			)
 		)
 	)
+	(global_label "COL_6"
+		(shape input)
+		(at 66.04 74.93 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9cc6cd20-4231-4eb9-bc55-7c4a54224a70")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 74.8309 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "COL_8"
+		(shape input)
+		(at 66.04 62.23 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9f71e076-4dcf-4fe8-9e47-ac80bee553eb")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 74.8309 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "COL_5"
 		(shape input)
 		(at 172.72 31.75 0)
@@ -3808,6 +4050,50 @@
 		(uuid "abd8520f-574e-4974-bfbd-cf3bba6953f2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 181.5109 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SCL"
+		(shape input)
+		(at 66.04 52.07 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "af05d290-4c4e-4d35-80bd-6603846c08c5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 72.5328 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "COL_7"
+		(shape input)
+		(at 66.04 72.39 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b251132c-279c-4ca3-a0f0-a7315c2e86d1")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 74.8309 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3927,6 +4213,28 @@
 			)
 		)
 	)
+	(global_label "COL_2"
+		(shape input)
+		(at 20.32 46.99 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ccd1b9dc-f5c2-4862-8d62-d98db6d10034")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 11.5291 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "DC"
 		(shape input)
 		(at 66.04 157.48 180)
@@ -3967,6 +4275,138 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ROW_2"
+		(shape input)
+		(at 20.32 62.23 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e538b561-f36e-4e1e-8212-0c9d673eb998")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 11.1058 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "COL_5"
+		(shape input)
+		(at 20.32 54.61 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ee16ac27-e6cd-4e4f-9b6f-191ef2f43e7a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 11.5291 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "COL_10"
+		(shape input)
+		(at 66.04 57.15 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f29fd7e4-0c2b-430f-acd8-de84f277e1da")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 76.0404 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ROW_1"
+		(shape input)
+		(at 20.32 59.69 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f57bb904-e49f-4faa-8d69-baa6341dcd80")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 11.1058 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "RST"
+		(shape input)
+		(at 20.32 80.01 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f8c931f2-4c68-4556-8bb0-dfec7d1d4897")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 13.8877 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SDA"
+		(shape input)
+		(at 66.04 54.61 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "fbbc3c60-baf8-44fb-ad4c-754692766e26")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 72.5933 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -4173,7 +4613,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 224.79 52.07 0)
 			(effects
 				(font
@@ -4483,7 +4923,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 208.28 69.85 0)
 			(effects
 				(font
@@ -4551,7 +4991,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 191.77 34.29 0)
 			(effects
 				(font
@@ -4619,7 +5059,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 101.6 69.85 0)
 			(effects
 				(font
@@ -4687,7 +5127,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 191.77 52.07 0)
 			(effects
 				(font
@@ -4843,7 +5283,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 167.64 52.07 0)
 			(effects
 				(font
@@ -4999,7 +5439,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 241.3 34.29 0)
 			(effects
 				(font
@@ -5067,7 +5507,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 118.11 52.07 0)
 			(effects
 				(font
@@ -5135,7 +5575,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 151.13 34.29 0)
 			(effects
 				(font
@@ -5203,7 +5643,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 191.77 69.85 0)
 			(effects
 				(font
@@ -5426,7 +5866,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "local:SH1122_2.08inch"
 			(at 83.82 128.27 0)
 			(effects
 				(font
@@ -5509,7 +5949,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 101.6 34.29 0)
 			(effects
 				(font
@@ -5577,7 +6017,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 191.77 87.63 0)
 			(effects
 				(font
@@ -5645,7 +6085,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 224.79 87.63 0)
 			(effects
 				(font
@@ -5977,7 +6417,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 101.6 52.07 0)
 			(effects
 				(font
@@ -6309,7 +6749,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 257.81 87.63 0)
 			(effects
 				(font
@@ -6377,7 +6817,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 224.79 34.29 0)
 			(effects
 				(font
@@ -6445,7 +6885,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 118.11 87.63 0)
 			(effects
 				(font
@@ -6513,7 +6953,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 241.3 52.07 0)
 			(effects
 				(font
@@ -6581,7 +7021,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 151.13 87.63 0)
 			(effects
 				(font
@@ -6649,7 +7089,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 118.11 69.85 0)
 			(effects
 				(font
@@ -6717,7 +7157,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 257.81 69.85 0)
 			(effects
 				(font
@@ -6873,7 +7313,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 167.64 34.29 0)
 			(effects
 				(font
@@ -6941,7 +7381,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 118.11 34.29 0)
 			(effects
 				(font
@@ -7339,7 +7779,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 167.64 69.85 0)
 			(effects
 				(font
@@ -7407,7 +7847,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 151.13 52.07 0)
 			(effects
 				(font
@@ -7477,7 +7917,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "local:ST7789_2.25inch"
 			(at 83.82 153.67 0)
 			(effects
 				(font
@@ -7827,7 +8267,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 224.79 69.85 0)
 			(effects
 				(font
@@ -8071,7 +8511,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 208.28 34.29 0)
 			(effects
 				(font
@@ -8139,7 +8579,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 241.3 87.63 0)
 			(effects
 				(font
@@ -8581,7 +9021,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 101.6 87.63 0)
 			(effects
 				(font
@@ -9089,7 +9529,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 257.81 52.07 0)
 			(effects
 				(font
@@ -9157,7 +9597,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 134.62 87.63 0)
 			(effects
 				(font
@@ -9225,7 +9665,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 257.81 34.29 0)
 			(effects
 				(font
@@ -9381,7 +9821,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 134.62 69.85 0)
 			(effects
 				(font
@@ -9691,7 +10131,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 208.28 87.63 0)
 			(effects
 				(font
@@ -9847,7 +10287,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 134.62 52.07 0)
 			(effects
 				(font
@@ -10333,7 +10773,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 241.3 69.85 0)
 			(effects
 				(font
@@ -10594,7 +11034,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 151.13 69.85 0)
 			(effects
 				(font
@@ -10662,7 +11102,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 167.64 87.63 0)
 			(effects
 				(font
@@ -10906,7 +11346,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 134.62 34.29 0)
 			(effects
 				(font
@@ -11062,7 +11502,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 208.28 52.07 0)
 			(effects
 				(font
