@@ -59,10 +59,10 @@
 		(end 36.575 10.54)
 		(stroke
 			(width 0.1)
-			(type default)
+			(type solid)
 		)
 		(fill no)
-		(layer "F.SilkS")
+		(layer "B.SilkS")
 		(uuid "ab3323ae-0fd8-469b-aed9-8478ae56b77d")
 	)
 	(fp_rect
