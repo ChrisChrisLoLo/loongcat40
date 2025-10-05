@@ -4,3 +4,6 @@
 [submodule "pcb/marbastlib"]
 	path = pcb/marbastlib
 	url = https://github.com/ebastler/marbastlib.git
+[submodule "pcb/keyswitches.pretty"]
+	path = pcb/keyswitches.pretty
+	url = https://github.com/daprice/keyswitches.pretty.git
