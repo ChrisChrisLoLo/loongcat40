@@ -2290,11 +2290,15 @@
 			(embedded_fonts no)
 		)
 	)
-	(junction
-		(at 196.85 57.15)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "022957cf-3f35-4457-a877-342376e07cfc")
+	(text "switch symbols have been flipped to switch over to new mx footprint"
+		(exclude_from_sim no)
+		(at 178.816 24.638 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "f2f77ebc-7c5e-4bb4-914e-bffa6ccde7f0")
 	)
 	(junction
 		(at 146.05 100.33)
@@ -2303,10 +2307,10 @@
 		(uuid "027e190a-f8eb-4510-a744-8d7643b39871")
 	)
 	(junction
-		(at 106.68 39.37)
+		(at 213.36 57.15)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "05969597-f218-482f-9995-3674a01a2d88")
+		(uuid "08a24336-6d69-4a75-83bf-b5bcb69010d4")
 	)
 	(junction
 		(at 96.52 100.33)
@@ -2321,10 +2325,34 @@
 		(uuid "10790983-0553-4c2c-9638-efff4beaacdb")
 	)
 	(junction
+		(at 106.68 39.37)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "10d3063e-e7cc-4750-926f-756df8060704")
+	)
+	(junction
 		(at 219.71 46.99)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "12f3f0a1-409b-43d4-81b3-085873d3dee0")
+	)
+	(junction
+		(at 262.89 39.37)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "18f6b9ab-c37d-400f-af7d-4504c687bff2")
+	)
+	(junction
+		(at 162.56 92.71)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1bcef463-e953-421a-bb93-773db29fcf05")
+	)
+	(junction
+		(at 156.21 57.15)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1c43a724-8317-412d-b9ac-e2512c70a009")
 	)
 	(junction
 		(at 148.59 130.81)
@@ -2333,16 +2361,10 @@
 		(uuid "1f5d5784-d8a2-4de7-b8da-eb2b4e16a0b5")
 	)
 	(junction
-		(at 106.68 57.15)
+		(at 246.38 74.93)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "2007f818-fc21-481e-b2db-c3e8d7dfa37e")
-	)
-	(junction
-		(at 246.38 39.37)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "21d7418d-cc05-465b-bb80-9e16c193e975")
+		(uuid "1fc9178b-e519-4d82-bc5f-53f6aaa3c18c")
 	)
 	(junction
 		(at 203.2 82.55)
@@ -2351,58 +2373,34 @@
 		(uuid "21dbad2f-8b78-4b90-b74a-24bef8378073")
 	)
 	(junction
-		(at 213.36 74.93)
+		(at 123.19 57.15)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "25bc7712-e305-4baa-bede-f1e9e4ece45f")
-	)
-	(junction
-		(at 123.19 74.93)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "31067dfe-bb19-4739-92b6-1c0383e8eced")
-	)
-	(junction
-		(at 139.7 74.93)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "32cd2c98-ac6e-4476-857e-30481a92570e")
-	)
-	(junction
-		(at 156.21 39.37)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "32cf376a-9705-4f34-9687-f157982746e4")
-	)
-	(junction
-		(at 229.87 39.37)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3640c1b8-cea7-4df8-ac92-63c3d1588a42")
-	)
-	(junction
-		(at 213.36 39.37)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "37a8199b-497a-4861-aa58-eb0f58be7dc1")
-	)
-	(junction
-		(at 172.72 39.37)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "400939e9-c4df-477f-be4b-9ef4afa8414c")
-	)
-	(junction
-		(at 139.7 39.37)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4984be1b-893e-44e1-888d-6691af2fafd4")
+		(uuid "3f735153-3ef1-4387-93b1-6f2668a33ad6")
 	)
 	(junction
 		(at 156.21 74.93)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "5656715d-4181-4db6-8bca-785fe6641d72")
+		(uuid "46e64589-0102-4e59-b271-24a16183aa8e")
+	)
+	(junction
+		(at 246.38 39.37)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "49d3d2b9-9233-41ac-877f-8d4289d5eb7a")
+	)
+	(junction
+		(at 156.21 39.37)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5116cb94-92eb-4acc-9dbb-f9e81ce8f629")
+	)
+	(junction
+		(at 196.85 74.93)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5a5a09a8-09a3-4a6a-b1d8-4423369d67a4")
 	)
 	(junction
 		(at 219.71 64.77)
@@ -2411,16 +2409,16 @@
 		(uuid "5e472923-1a2c-4a4d-b38c-467aa3630841")
 	)
 	(junction
-		(at 246.38 57.15)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "62279a4e-e0c4-4060-80f5-ad515cd397a7")
-	)
-	(junction
 		(at 186.69 46.99)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "666345ef-41f3-4f95-8be6-767b3ae661f6")
+	)
+	(junction
+		(at 213.36 39.37)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "669b0705-88b6-4b1c-894b-b04e48a6046c")
 	)
 	(junction
 		(at 186.69 100.33)
@@ -2429,28 +2427,46 @@
 		(uuid "66bc2fe7-2d7a-4828-9e14-0c5fb214e1b1")
 	)
 	(junction
-		(at 139.7 57.15)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "67194d73-ab39-4ae5-9d6a-c961d9ebdd74")
-	)
-	(junction
-		(at 106.68 74.93)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "673663a8-4e39-4732-b722-9275d31cf13f")
-	)
-	(junction
 		(at 168.91 130.81)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6d0ac63b-8862-42e0-8c51-fdf918aa969f")
 	)
 	(junction
+		(at 229.87 39.37)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6e58fe67-5a6d-4c0c-9a2c-9fcf73df23f7")
+	)
+	(junction
+		(at 106.68 74.93)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "71c393f9-07c0-4ee8-836a-e3ee8261de82")
+	)
+	(junction
 		(at 129.54 82.55)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "767a07a4-5454-44ed-98fc-7a61b1c8733d")
+	)
+	(junction
+		(at 139.7 39.37)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7855553b-a045-47b5-8ab6-0df4c19bc1b3")
+	)
+	(junction
+		(at 139.7 57.15)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "79f10c12-f25d-466d-bbe4-9926b0a05aad")
+	)
+	(junction
+		(at 262.89 57.15)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7b29e830-6e4b-424c-80dd-706d348234c7")
 	)
 	(junction
 		(at 146.05 46.99)
@@ -2465,22 +2481,34 @@
 		(uuid "7cc6209e-ca13-406b-afe5-6a2b30118803")
 	)
 	(junction
-		(at 262.89 39.37)
+		(at 186.69 92.71)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "81f78a46-4dd8-4c43-a031-26ff8dd3f572")
+		(uuid "7df9b135-3b96-49d0-90fc-674b224c4b18")
 	)
 	(junction
-		(at 172.72 57.15)
+		(at 229.87 57.15)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "904bcc4c-ec89-4e5f-b82f-b1fd1fc4aed5")
+		(uuid "82a14643-7934-4b4c-8345-8245b2dc1c03")
 	)
 	(junction
-		(at 196.85 74.93)
+		(at 196.85 57.15)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "a123b8c1-2a80-45d5-a12c-3640f38ecb3d")
+		(uuid "847eeb62-3c49-4139-af1c-b59f9d892e74")
+	)
+	(junction
+		(at 172.72 39.37)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "91c717a0-ac19-4b94-b4ba-5713446a53a8")
+	)
+	(junction
+		(at 196.85 88.9)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9c1754c3-faa8-49f4-9b8b-28c56ff56903")
 	)
 	(junction
 		(at 203.2 100.33)
@@ -2495,12 +2523,6 @@
 		(uuid "a3547b3e-3f05-4a24-932d-f0a105bc86b3")
 	)
 	(junction
-		(at 123.19 57.15)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a70083cd-a96f-4cb1-b84d-66c82c842e36")
-	)
-	(junction
 		(at 203.2 64.77)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2511,6 +2533,24 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a970909e-dd37-4514-874b-5e03e7b31b35")
+	)
+	(junction
+		(at 229.87 74.93)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "aa588b3e-4fdf-4e8e-a0f4-15d52486ee8b")
+	)
+	(junction
+		(at 172.72 88.9)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "abf80d04-fbcd-41bf-b21f-97f88032a4c0")
+	)
+	(junction
+		(at 262.89 74.93)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ac85b34c-c605-4c62-9954-974fbce55063")
 	)
 	(junction
 		(at 113.03 64.77)
@@ -2525,46 +2565,22 @@
 		(uuid "b0d80454-d7f7-4234-ab30-5482206a5a0f")
 	)
 	(junction
-		(at 123.19 39.37)
+		(at 139.7 74.93)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "b5d468b6-fe2f-4a40-9f87-2e9cd6970536")
+		(uuid "b39dad33-367e-4649-890e-ec04e1ef0e05")
 	)
 	(junction
-		(at 172.72 74.93)
+		(at 213.36 74.93)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "b625f599-4084-460d-afbf-2a40c8a04737")
-	)
-	(junction
-		(at 156.21 57.15)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b71d478e-1c53-458f-ba9d-f0d4b91e7856")
+		(uuid "b5489b27-4fbb-40ef-94a4-159420edaf61")
 	)
 	(junction
 		(at 236.22 46.99)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bcd0b511-a982-41e3-ab43-cd0f0f2cacd4")
-	)
-	(junction
-		(at 213.36 57.15)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c2fd7926-b1d6-4e3b-8db8-d144688ec968")
-	)
-	(junction
-		(at 229.87 74.93)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c4414622-7667-4bcc-bc00-73f2520aafa0")
-	)
-	(junction
-		(at 262.89 74.93)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c4bd8bb8-9de2-4607-9f99-ee56a4212960")
 	)
 	(junction
 		(at 163.83 130.81)
@@ -2579,10 +2595,16 @@
 		(uuid "c588e90a-ac6c-45f8-b27a-b7e5f83a054e")
 	)
 	(junction
-		(at 196.85 39.37)
+		(at 246.38 57.15)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "c5c5e4fe-7906-4b79-8994-32889122c980")
+		(uuid "c73d9746-7e01-4243-a82f-78edb06d5c5f")
+	)
+	(junction
+		(at 123.19 74.93)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c96c9d1e-26a4-492c-a808-a4631b2a78a3")
 	)
 	(junction
 		(at 236.22 82.55)
@@ -2603,16 +2625,16 @@
 		(uuid "d00de7af-9a6c-4537-9100-7ea00a3c694a")
 	)
 	(junction
-		(at 246.38 74.93)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d05305ad-37be-4fbb-9227-3b5d578e5fc0")
-	)
-	(junction
 		(at 162.56 64.77)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d137387f-e93f-4147-a3be-a490fe3f4ffb")
+	)
+	(junction
+		(at 106.68 57.15)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d18f5d62-f9aa-4c81-80f7-638b0f56cb74")
 	)
 	(junction
 		(at 96.52 82.55)
@@ -2621,16 +2643,22 @@
 		(uuid "d405aeb9-5b10-4d79-9cb6-4ca36f863c1a")
 	)
 	(junction
-		(at 262.89 57.15)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d545e749-1312-43bc-aaf2-82618a37487b")
-	)
-	(junction
 		(at 153.67 130.81)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d592d1d1-d7da-4de3-b900-1668dad0e373")
+	)
+	(junction
+		(at 123.19 39.37)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d935ecc4-98c5-48f1-be80-4b5ef8b7d15f")
+	)
+	(junction
+		(at 172.72 57.15)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "da37a552-c050-48b7-9a60-583f04f3a71b")
 	)
 	(junction
 		(at 236.22 64.77)
@@ -2663,6 +2691,12 @@
 		(uuid "eb4c2c6c-53d4-457c-ac1f-c05ff48c7552")
 	)
 	(junction
+		(at 172.72 74.93)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ec06c778-8860-4935-94fa-7161c650fefe")
+	)
+	(junction
 		(at 162.56 46.99)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2673,12 +2707,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "edc94206-0128-4723-ac18-06af6ab5e88c")
-	)
-	(junction
-		(at 229.87 57.15)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ef80b43a-f765-4b50-9106-e77403919fec")
 	)
 	(junction
 		(at 96.52 64.77)
@@ -2709,6 +2737,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f815b20d-22d3-4735-b7db-f38623e501ae")
+	)
+	(junction
+		(at 196.85 39.37)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fc07eb2a-bc16-4490-b4d0-5c64565535c4")
 	)
 	(junction
 		(at 146.05 82.55)
@@ -2776,6 +2810,16 @@
 	)
 	(wire
 		(pts
+			(xy 139.7 57.15) (xy 139.7 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "076cb719-7cfa-4ab5-afc1-b1df7558ced4")
+	)
+	(wire
+		(pts
 			(xy 113.03 64.77) (xy 129.54 64.77)
 		)
 		(stroke
@@ -2786,6 +2830,16 @@
 	)
 	(wire
 		(pts
+			(xy 139.7 74.93) (xy 139.7 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "11741564-7621-4916-9b72-dd87ac15b890")
+	)
+	(wire
+		(pts
 			(xy 203.2 100.33) (xy 219.71 100.33)
 		)
 		(stroke
@@ -2793,6 +2847,26 @@
 			(type default)
 		)
 		(uuid "122266c9-aba8-4ed0-bd19-2a8ac2f69d52")
+	)
+	(wire
+		(pts
+			(xy 196.85 74.93) (xy 196.85 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "16a8fb2a-a084-4b1f-8f69-2777b42fab17")
+	)
+	(wire
+		(pts
+			(xy 106.68 39.37) (xy 106.68 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "18ce1e69-3601-4f36-b9d0-3df0421205b4")
 	)
 	(wire
 		(pts
@@ -2846,13 +2920,43 @@
 	)
 	(wire
 		(pts
-			(xy 229.87 57.15) (xy 229.87 74.93)
+			(xy 196.85 39.37) (xy 196.85 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2b250faf-05fd-46d5-99c4-1ea6ff038240")
+	)
+	(wire
+		(pts
+			(xy 229.87 39.37) (xy 229.87 57.15)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "2bc5a317-3827-4881-83ce-361dbd22f344")
+	)
+	(wire
+		(pts
+			(xy 172.72 88.9) (xy 172.72 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2d9b176b-8ce3-4792-bb3e-db519cead9fe")
+	)
+	(wire
+		(pts
+			(xy 106.68 74.93) (xy 106.68 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2da08495-d293-4307-98e1-704c55f01211")
 	)
 	(wire
 		(pts
@@ -2876,26 +2980,6 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 57.15) (xy 123.19 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "31a50d88-cf46-44fa-98e9-5db27d07f052")
-	)
-	(wire
-		(pts
-			(xy 196.85 57.15) (xy 196.85 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3439b3be-2100-4a62-b477-622a482272d0")
-	)
-	(wire
-		(pts
 			(xy 219.71 46.99) (xy 236.22 46.99)
 		)
 		(stroke
@@ -2906,23 +2990,13 @@
 	)
 	(wire
 		(pts
-			(xy 262.89 74.93) (xy 262.89 92.71)
+			(xy 262.89 57.15) (xy 262.89 74.93)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "36be56aa-abd7-496b-a6e9-d1b8225d0382")
-	)
-	(wire
-		(pts
-			(xy 123.19 74.93) (xy 123.19 92.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3b96837e-fe06-40ab-9ff2-18e2dcf8362f")
 	)
 	(wire
 		(pts
@@ -2946,6 +3020,16 @@
 	)
 	(wire
 		(pts
+			(xy 156.21 57.15) (xy 156.21 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "47b029b3-b7f0-42bb-be37-fbdeaac28725")
+	)
+	(wire
+		(pts
 			(xy 60.96 123.19) (xy 66.04 123.19)
 		)
 		(stroke
@@ -2956,7 +3040,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 74.93) (xy 106.68 92.71)
+			(xy 106.68 57.15) (xy 106.68 74.93)
 		)
 		(stroke
 			(width 0)
@@ -3006,7 +3090,7 @@
 	)
 	(wire
 		(pts
-			(xy 229.87 74.93) (xy 229.87 92.71)
+			(xy 229.87 57.15) (xy 229.87 74.93)
 		)
 		(stroke
 			(width 0)
@@ -3016,7 +3100,7 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 57.15) (xy 156.21 74.93)
+			(xy 156.21 39.37) (xy 156.21 57.15)
 		)
 		(stroke
 			(width 0)
@@ -3036,43 +3120,23 @@
 	)
 	(wire
 		(pts
-			(xy 196.85 39.37) (xy 196.85 57.15)
+			(xy 123.19 74.93) (xy 123.19 92.71)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "58c5e1b4-6597-418c-9bfb-f1bd8e0702c1")
+		(uuid "59d8ff8d-32b8-45f7-ba0a-7fb826476522")
 	)
 	(wire
 		(pts
-			(xy 213.36 74.93) (xy 213.36 92.71)
+			(xy 196.85 88.9) (xy 196.85 92.71)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "5d967439-5f00-43e9-bccf-3e227c5f423f")
-	)
-	(wire
-		(pts
-			(xy 106.68 57.15) (xy 106.68 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "60c69948-57c5-46ce-b152-bbdce3e3a232")
-	)
-	(wire
-		(pts
-			(xy 246.38 74.93) (xy 246.38 92.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "60f771e2-e186-4c28-9900-5ec870b15748")
+		(uuid "64ae1ebd-3f4d-430a-9778-65fbaa28fa6e")
 	)
 	(wire
 		(pts
@@ -3086,16 +3150,6 @@
 	)
 	(wire
 		(pts
-			(xy 229.87 31.75) (xy 229.87 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "68d928ae-56b2-403e-b3ec-4495034eaa8b")
-	)
-	(wire
-		(pts
 			(xy 148.59 130.81) (xy 153.67 130.81)
 		)
 		(stroke
@@ -3106,7 +3160,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 39.37) (xy 139.7 57.15)
+			(xy 139.7 31.75) (xy 139.7 39.37)
 		)
 		(stroke
 			(width 0)
@@ -3116,7 +3170,7 @@
 	)
 	(wire
 		(pts
-			(xy 262.89 57.15) (xy 262.89 74.93)
+			(xy 262.89 39.37) (xy 262.89 57.15)
 		)
 		(stroke
 			(width 0)
@@ -3126,7 +3180,7 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 57.15) (xy 213.36 74.93)
+			(xy 213.36 39.37) (xy 213.36 57.15)
 		)
 		(stroke
 			(width 0)
@@ -3147,16 +3201,6 @@
 	(wire
 		(pts
 			(xy 123.19 31.75) (xy 123.19 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7cffa9c7-ac8b-44ae-9afb-595dd973e257")
-	)
-	(wire
-		(pts
-			(xy 123.19 39.37) (xy 123.19 57.15)
 		)
 		(stroke
 			(width 0)
@@ -3196,13 +3240,23 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 57.15) (xy 246.38 74.93)
+			(xy 246.38 39.37) (xy 246.38 57.15)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "86c39727-a180-4424-bbe6-d20228c2f8be")
+	)
+	(wire
+		(pts
+			(xy 246.38 74.93) (xy 246.38 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "86de4ac5-99b9-4b67-898b-76708c7bb173")
 	)
 	(wire
 		(pts
@@ -3216,6 +3270,16 @@
 	)
 	(wire
 		(pts
+			(xy 213.36 57.15) (xy 213.36 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8a9d50a9-52f5-4438-8882-bac8ac446e2a")
+	)
+	(wire
+		(pts
 			(xy 262.89 31.75) (xy 262.89 39.37)
 		)
 		(stroke
@@ -3226,6 +3290,16 @@
 	)
 	(wire
 		(pts
+			(xy 123.19 39.37) (xy 123.19 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8d0d6e08-be9f-4cc6-9627-c812c231df5c")
+	)
+	(wire
+		(pts
 			(xy 236.22 100.33) (xy 252.73 100.33)
 		)
 		(stroke
@@ -3233,36 +3307,6 @@
 			(type default)
 		)
 		(uuid "8d3383b9-85dc-4f42-bd99-b2dbfa0ef0dc")
-	)
-	(wire
-		(pts
-			(xy 156.21 39.37) (xy 156.21 57.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "94e55319-0e8a-479c-84c2-1adcd515baae")
-	)
-	(wire
-		(pts
-			(xy 172.72 39.37) (xy 172.72 57.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "957dd63b-6dfd-4053-abc5-37806d185cc4")
-	)
-	(wire
-		(pts
-			(xy 139.7 74.93) (xy 139.7 92.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "95f34905-737b-492d-9088-c6d71e23d119")
 	)
 	(wire
 		(pts
@@ -3296,16 +3340,6 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 39.37) (xy 213.36 57.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9cd9a868-55b0-4cc2-be31-dffac72340a5")
-	)
-	(wire
-		(pts
 			(xy 219.71 64.77) (xy 236.22 64.77)
 		)
 		(stroke
@@ -3313,16 +3347,6 @@
 			(type default)
 		)
 		(uuid "9e34472b-1dfc-43d7-904e-056c6153b010")
-	)
-	(wire
-		(pts
-			(xy 106.68 39.37) (xy 106.68 57.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9ef5beb2-acf9-4dca-84dd-6c9a3f83cde9")
 	)
 	(wire
 		(pts
@@ -3336,6 +3360,16 @@
 	)
 	(wire
 		(pts
+			(xy 162.56 88.9) (xy 162.56 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a2de7b38-6b29-4b4a-8219-3e648e3fed7d")
+	)
+	(wire
+		(pts
 			(xy 172.72 31.75) (xy 172.72 39.37)
 		)
 		(stroke
@@ -3346,7 +3380,17 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 74.93) (xy 172.72 92.71)
+			(xy 172.72 74.93) (xy 172.72 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a6e15622-886a-4ac6-9de7-4b116ac7a480")
+	)
+	(wire
+		(pts
+			(xy 172.72 57.15) (xy 172.72 74.93)
 		)
 		(stroke
 			(width 0)
@@ -3376,13 +3420,33 @@
 	)
 	(wire
 		(pts
-			(xy 262.89 39.37) (xy 262.89 57.15)
+			(xy 139.7 39.37) (xy 139.7 57.15)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b452e4ba-a691-447e-bcef-77ecce6b48df")
+		(uuid "ae5d7780-8c0a-4f40-a84d-19920847b830")
+	)
+	(wire
+		(pts
+			(xy 229.87 74.93) (xy 229.87 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b12a8745-72e3-494a-9ed6-7550a11ada6b")
+	)
+	(wire
+		(pts
+			(xy 156.21 74.93) (xy 156.21 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b455610a-beb5-410b-b0c8-8d4a8d4b3837")
 	)
 	(wire
 		(pts
@@ -3416,27 +3480,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 31.75) (xy 139.7 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b7724ba8-5182-4b05-80a6-893c161bbb5a")
-	)
-	(wire
-		(pts
-			(xy 246.38 39.37) (xy 246.38 57.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ba087a5a-1555-4f47-bf5a-ec371b60efe3")
-	)
-	(wire
-		(pts
-			(xy 196.85 74.93) (xy 196.85 92.71)
+			(xy 196.85 57.15) (xy 196.85 74.93)
 		)
 		(stroke
 			(width 0)
@@ -3446,13 +3490,13 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 74.93) (xy 156.21 92.71)
+			(xy 246.38 57.15) (xy 246.38 74.93)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "bcc60984-20e7-4d62-b831-f517fc0d0768")
+		(uuid "bf50fb74-00b4-4695-8f2b-b13966e837d9")
 	)
 	(wire
 		(pts
@@ -3486,6 +3530,16 @@
 	)
 	(wire
 		(pts
+			(xy 123.19 57.15) (xy 123.19 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cd57d272-3c20-403b-a4bb-fdc5ead753e1")
+	)
+	(wire
+		(pts
 			(xy 96.52 82.55) (xy 113.03 82.55)
 		)
 		(stroke
@@ -3503,6 +3557,16 @@
 			(type default)
 		)
 		(uuid "d00445d1-21ab-47e5-8f0f-1cdfb3de6f36")
+	)
+	(wire
+		(pts
+			(xy 186.69 88.9) (xy 186.69 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d234674b-a323-4f06-895f-4afbc7d258d8")
 	)
 	(wire
 		(pts
@@ -3576,16 +3640,6 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 57.15) (xy 172.72 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e690e521-37fc-4c3e-90ec-5c9bae40e13e")
-	)
-	(wire
-		(pts
 			(xy 146.05 82.55) (xy 162.56 82.55)
 		)
 		(stroke
@@ -3616,17 +3670,17 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 57.15) (xy 139.7 74.93)
+			(xy 262.89 74.93) (xy 262.89 92.71)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "eedd0411-34f2-40c4-8574-939110834743")
+		(uuid "eae1581d-5b7c-42b6-bbff-872750c78d79")
 	)
 	(wire
 		(pts
-			(xy 229.87 39.37) (xy 229.87 57.15)
+			(xy 229.87 31.75) (xy 229.87 39.37)
 		)
 		(stroke
 			(width 0)
@@ -3653,6 +3707,26 @@
 			(type default)
 		)
 		(uuid "f9e137e9-52d8-43db-844a-78cc1ed33aaa")
+	)
+	(wire
+		(pts
+			(xy 213.36 74.93) (xy 213.36 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fbd96a6a-f4bc-4780-9127-759dd68ce80a")
+	)
+	(wire
+		(pts
+			(xy 172.72 39.37) (xy 172.72 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ff2bda4f-d5f6-4878-bd4e-cb4001bdabdc")
 	)
 	(wire
 		(pts
@@ -4832,7 +4906,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 224.79 57.15 0)
+		(at 224.79 57.15 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4841,7 +4915,7 @@
 		(fields_autoplaced yes)
 		(uuid "0840356f-36bd-4c4b-a302-e58cd173a003")
 		(property "Reference" "SW18"
-			(at 224.79 49.53 0)
+			(at 224.79 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4849,15 +4923,15 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 224.79 52.07 0)
+			(at 224.79 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 224.79 52.07 0)
+		(property "Footprint" "keyswitches:Kailh_socket_MX"
+			(at 224.79 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4866,7 +4940,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 224.79 52.07 0)
+			(at 224.79 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5142,7 +5216,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 208.28 74.93 0)
+		(at 208.28 74.93 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5151,7 +5225,7 @@
 		(fields_autoplaced yes)
 		(uuid "127f3c19-56d2-4c6f-8123-607a9b2b747a")
 		(property "Reference" "SW27"
-			(at 208.28 67.31 0)
+			(at 208.28 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5159,15 +5233,15 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 208.28 69.85 0)
+			(at 208.28 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 208.28 69.85 0)
+		(property "Footprint" "keyswitches:Kailh_socket_MX"
+			(at 208.28 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5176,7 +5250,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 208.28 69.85 0)
+			(at 208.28 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5210,7 +5284,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 191.77 39.37 0)
+		(at 191.77 39.37 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5219,7 +5293,7 @@
 		(fields_autoplaced yes)
 		(uuid "1411ddd5-9ccb-44b3-bf97-0de2ff041fc6")
 		(property "Reference" "SW6"
-			(at 191.77 31.75 0)
+			(at 191.77 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5227,15 +5301,15 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 191.77 34.29 0)
+			(at 191.77 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 191.77 34.29 0)
+		(property "Footprint" "keyswitches:Kailh_socket_MX"
+			(at 191.77 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5244,7 +5318,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 191.77 34.29 0)
+			(at 191.77 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5345,7 +5419,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 101.6 74.93 0)
+		(at 101.6 74.93 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5354,7 +5428,7 @@
 		(fields_autoplaced yes)
 		(uuid "185b971b-5b3a-4ac4-9f66-a679a732a5fb")
 		(property "Reference" "SW21"
-			(at 101.6 67.31 0)
+			(at 101.6 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5362,15 +5436,15 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 101.6 69.85 0)
+			(at 101.6 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 101.6 69.85 0)
+		(property "Footprint" "keyswitches:Kailh_socket_MX"
+			(at 101.6 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5379,7 +5453,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 101.6 69.85 0)
+			(at 101.6 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5413,7 +5487,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 191.77 57.15 0)
+		(at 191.77 57.15 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5422,7 +5496,7 @@
 		(fields_autoplaced yes)
 		(uuid "1b4de647-4333-48c3-88ef-207ede6a0869")
 		(property "Reference" "SW16"
-			(at 191.77 49.53 0)
+			(at 191.77 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5430,15 +5504,15 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 191.77 52.07 0)
+			(at 191.77 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 191.77 52.07 0)
+		(property "Footprint" "keyswitches:Kailh_socket_MX"
+			(at 191.77 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5447,7 +5521,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 191.77 52.07 0)
+			(at 191.77 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5636,7 +5710,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 167.64 57.15 0)
+		(at 167.64 57.15 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5645,7 +5719,7 @@
 		(fields_autoplaced yes)
 		(uuid "1faead6b-2a8f-4ca2-8ec2-eca4fd15e81e")
 		(property "Reference" "SW15"
-			(at 167.64 49.53 0)
+			(at 167.64 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5653,15 +5727,15 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 167.64 52.07 0)
+			(at 167.64 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 167.64 52.07 0)
+		(property "Footprint" "keyswitches:Kailh_socket_MX"
+			(at 167.64 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5670,7 +5744,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 167.64 52.07 0)
+			(at 167.64 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5858,7 +5932,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 241.3 39.37 0)
+		(at 241.3 39.37 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5867,7 +5941,7 @@
 		(fields_autoplaced yes)
 		(uuid "2d42d8b1-8947-4e1d-a8cf-a67f29a8dc4c")
 		(property "Reference" "SW9"
-			(at 241.3 31.75 0)
+			(at 241.3 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5875,15 +5949,15 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 241.3 34.29 0)
+			(at 241.3 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 241.3 34.29 0)
+		(property "Footprint" "keyswitches:Kailh_socket_MX"
+			(at 241.3 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5892,7 +5966,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 241.3 34.29 0)
+			(at 241.3 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5926,16 +6000,16 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 118.11 57.15 0)
+		(at 191.77 88.9 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "315f03d2-ed86-454c-ab40-772a5675054f")
-		(property "Reference" "SW12"
-			(at 118.11 49.53 0)
+		(uuid "2f282101-73a1-4158-a800-37f32098a04f")
+		(property "Reference" "SW42"
+			(at 191.77 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5943,15 +6017,15 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 118.11 52.07 0)
+			(at 191.77 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 118.11 52.07 0)
+		(property "Footprint" "keyswitches:Kailh_socket_MX"
+			(at 191.77 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5960,7 +6034,75 @@
 			)
 		)
 		(property "Datasheet" "~"
+			(at 191.77 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 191.77 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "65efc3c5-0bbb-4641-9697-b8c6ff0846ac")
+		)
+		(pin "2"
+			(uuid "f0372b9d-0993-4de4-aede-8f68aa925bc7")
+		)
+		(instances
+			(project "loongcat40"
+				(path "/8fc67d8d-e952-45c8-8971-09538109e933"
+					(reference "SW42")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 118.11 57.15 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "315f03d2-ed86-454c-ab40-772a5675054f")
+		(property "Reference" "SW12"
 			(at 118.11 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 118.11 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "keyswitches:Kailh_socket_MX"
+			(at 118.11 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 118.11 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6061,7 +6203,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 151.13 39.37 0)
+		(at 151.13 39.37 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6070,7 +6212,7 @@
 		(fields_autoplaced yes)
 		(uuid "35bbe1b8-8e1e-4150-a412-e2fdae2ae669")
 		(property "Reference" "SW4"
-			(at 151.13 31.75 0)
+			(at 151.13 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6078,15 +6220,15 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 151.13 34.29 0)
+			(at 151.13 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 151.13 34.29 0)
+		(property "Footprint" "keyswitches:Kailh_socket_MX"
+			(at 151.13 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6095,7 +6237,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 151.13 34.29 0)
+			(at 151.13 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6129,7 +6271,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 191.77 74.93 0)
+		(at 191.77 74.93 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6138,7 +6280,7 @@
 		(fields_autoplaced yes)
 		(uuid "396ee02d-a48c-41eb-b26a-1dbf6cacc43b")
 		(property "Reference" "SW26"
-			(at 191.77 67.31 0)
+			(at 191.77 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6146,15 +6288,15 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 191.77 69.85 0)
+			(at 191.77 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 191.77 69.85 0)
+		(property "Footprint" "keyswitches:Kailh_socket_MX"
+			(at 191.77 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6163,7 +6305,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 191.77 69.85 0)
+			(at 191.77 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6435,7 +6577,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 101.6 39.37 0)
+		(at 101.6 39.37 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6444,7 +6586,7 @@
 		(fields_autoplaced yes)
 		(uuid "3e3ce50b-32fd-458c-9e87-10bd4d988561")
 		(property "Reference" "SW1"
-			(at 101.6 31.75 0)
+			(at 101.6 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6452,15 +6594,15 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 101.6 34.29 0)
+			(at 101.6 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 101.6 34.29 0)
+		(property "Footprint" "keyswitches:Kailh_socket_MX"
+			(at 101.6 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6469,7 +6611,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 101.6 34.29 0)
+			(at 101.6 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6503,7 +6645,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 191.77 92.71 0)
+		(at 191.77 92.71 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6512,7 +6654,7 @@
 		(fields_autoplaced yes)
 		(uuid "41528228-10e7-43f3-8cc6-97f168875353")
 		(property "Reference" "SW36"
-			(at 191.77 85.09 0)
+			(at 191.77 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6520,15 +6662,15 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 191.77 87.63 0)
+			(at 191.77 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 191.77 87.63 0)
+		(property "Footprint" "keyswitches:Kailh_socket_MX"
+			(at 191.77 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6537,7 +6679,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 191.77 87.63 0)
+			(at 191.77 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6571,7 +6713,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 224.79 92.71 0)
+		(at 224.79 92.71 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6580,7 +6722,7 @@
 		(fields_autoplaced yes)
 		(uuid "421b52a8-4480-4b64-a73e-538f276c51cb")
 		(property "Reference" "SW38"
-			(at 224.79 85.09 0)
+			(at 224.79 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6588,15 +6730,15 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 224.79 87.63 0)
+			(at 224.79 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 224.79 87.63 0)
+		(property "Footprint" "keyswitches:Kailh_socket_MX"
+			(at 224.79 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6605,7 +6747,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 224.79 87.63 0)
+			(at 224.79 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6903,7 +7045,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 101.6 57.15 0)
+		(at 101.6 57.15 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6912,7 +7054,7 @@
 		(fields_autoplaced yes)
 		(uuid "478d43bc-5bcf-4db6-831c-7aa561899704")
 		(property "Reference" "SW11"
-			(at 101.6 49.53 0)
+			(at 101.6 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6920,15 +7062,15 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 101.6 52.07 0)
+			(at 101.6 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 101.6 52.07 0)
+		(property "Footprint" "keyswitches:Kailh_socket_MX"
+			(at 101.6 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6937,7 +7079,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 101.6 52.07 0)
+			(at 101.6 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7235,7 +7377,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 257.81 92.71 0)
+		(at 257.81 92.71 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7244,7 +7386,7 @@
 		(fields_autoplaced yes)
 		(uuid "563343b9-1b06-46ba-aff1-50ff03c5ad0c")
 		(property "Reference" "SW40"
-			(at 257.81 85.09 0)
+			(at 257.81 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7252,15 +7394,15 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 257.81 87.63 0)
+			(at 257.81 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 257.81 87.63 0)
+		(property "Footprint" "keyswitches:Kailh_socket_MX"
+			(at 257.81 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7269,7 +7411,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 257.81 87.63 0)
+			(at 257.81 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7303,7 +7445,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 224.79 39.37 0)
+		(at 224.79 39.37 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7312,7 +7454,7 @@
 		(fields_autoplaced yes)
 		(uuid "59864d80-5fb8-4dbc-baba-baa66e599599")
 		(property "Reference" "SW8"
-			(at 224.79 31.75 0)
+			(at 224.79 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7320,15 +7462,15 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 224.79 34.29 0)
+			(at 224.79 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 224.79 34.29 0)
+		(property "Footprint" "keyswitches:Kailh_socket_MX"
+			(at 224.79 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7337,7 +7479,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 224.79 34.29 0)
+			(at 224.79 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7371,7 +7513,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 118.11 92.71 0)
+		(at 118.11 92.71 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7380,7 +7522,7 @@
 		(fields_autoplaced yes)
 		(uuid "5cf0f43e-5be7-40c5-a31b-0dacb07b8e9f")
 		(property "Reference" "SW32"
-			(at 118.11 85.09 0)
+			(at 118.11 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7388,15 +7530,15 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 118.11 87.63 0)
+			(at 118.11 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 118.11 87.63 0)
+		(property "Footprint" "keyswitches:Kailh_socket_MX"
+			(at 118.11 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7405,7 +7547,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 118.11 87.63 0)
+			(at 118.11 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7439,7 +7581,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 241.3 57.15 0)
+		(at 241.3 57.15 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7448,7 +7590,7 @@
 		(fields_autoplaced yes)
 		(uuid "5d5e2312-67d6-4350-a034-e3999643089d")
 		(property "Reference" "SW19"
-			(at 241.3 49.53 0)
+			(at 241.3 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7456,15 +7598,15 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 241.3 52.07 0)
+			(at 241.3 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 241.3 52.07 0)
+		(property "Footprint" "keyswitches:Kailh_socket_MX"
+			(at 241.3 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7473,7 +7615,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 241.3 52.07 0)
+			(at 241.3 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7507,7 +7649,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 151.13 92.71 0)
+		(at 151.13 92.71 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7516,7 +7658,7 @@
 		(fields_autoplaced yes)
 		(uuid "5d93ab82-ec74-4ce5-a5b8-11f732a1fc6a")
 		(property "Reference" "SW34"
-			(at 151.13 85.09 0)
+			(at 151.13 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7524,15 +7666,15 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 151.13 87.63 0)
+			(at 151.13 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 151.13 87.63 0)
+		(property "Footprint" "keyswitches:Kailh_socket_MX"
+			(at 151.13 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7541,7 +7683,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 151.13 87.63 0)
+			(at 151.13 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7575,7 +7717,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 118.11 74.93 0)
+		(at 118.11 74.93 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7584,7 +7726,7 @@
 		(fields_autoplaced yes)
 		(uuid "5e41ce2f-317d-48ad-8e2d-489bebc08e3d")
 		(property "Reference" "SW22"
-			(at 118.11 67.31 0)
+			(at 118.11 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7592,15 +7734,15 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 118.11 69.85 0)
+			(at 118.11 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 118.11 69.85 0)
+		(property "Footprint" "keyswitches:Kailh_socket_MX"
+			(at 118.11 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7609,7 +7751,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 118.11 69.85 0)
+			(at 118.11 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7643,16 +7785,16 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 257.81 74.93 0)
+		(at 167.64 88.9 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "646592ac-57a1-4cd9-8a12-b99c6e1e9f1e")
-		(property "Reference" "SW30"
-			(at 257.81 67.31 0)
+		(uuid "5fe7233d-3aba-412b-afcb-bf51ee4de9cb")
+		(property "Reference" "SW41"
+			(at 167.64 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7660,15 +7802,15 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 257.81 69.85 0)
+			(at 167.64 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 257.81 69.85 0)
+		(property "Footprint" "keyswitches:Kailh_socket_MX"
+			(at 167.64 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7677,7 +7819,75 @@
 			)
 		)
 		(property "Datasheet" "~"
+			(at 167.64 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 167.64 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9088e486-ee75-4414-9037-737bec9264fd")
+		)
+		(pin "2"
+			(uuid "1f88c716-090d-4903-a1c1-8fafa025c294")
+		)
+		(instances
+			(project "loongcat40"
+				(path "/8fc67d8d-e952-45c8-8971-09538109e933"
+					(reference "SW41")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 257.81 74.93 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "646592ac-57a1-4cd9-8a12-b99c6e1e9f1e")
+		(property "Reference" "SW30"
 			(at 257.81 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 257.81 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "keyswitches:Kailh_socket_MX"
+			(at 257.81 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 257.81 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7799,7 +8009,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 167.64 39.37 0)
+		(at 167.64 39.37 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7808,7 +8018,7 @@
 		(fields_autoplaced yes)
 		(uuid "64d3b3d3-d0bc-4325-a410-75f8844015b6")
 		(property "Reference" "SW5"
-			(at 167.64 31.75 0)
+			(at 167.64 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7816,15 +8026,15 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 167.64 34.29 0)
+			(at 167.64 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 167.64 34.29 0)
+		(property "Footprint" "keyswitches:Kailh_socket_MX"
+			(at 167.64 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7833,7 +8043,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 167.64 34.29 0)
+			(at 167.64 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7867,7 +8077,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 118.11 39.37 0)
+		(at 118.11 39.37 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7876,7 +8086,7 @@
 		(fields_autoplaced yes)
 		(uuid "673b0209-5a97-46e9-a0b6-cc92dbd5087d")
 		(property "Reference" "SW2"
-			(at 118.11 31.75 0)
+			(at 118.11 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7884,15 +8094,15 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 118.11 34.29 0)
+			(at 118.11 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 118.11 34.29 0)
+		(property "Footprint" "keyswitches:Kailh_socket_MX"
+			(at 118.11 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7901,7 +8111,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 118.11 34.29 0)
+			(at 118.11 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8265,7 +8475,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 167.64 74.93 0)
+		(at 167.64 74.93 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8274,7 +8484,7 @@
 		(fields_autoplaced yes)
 		(uuid "722ef1f3-cc7d-48fa-b2c8-baddb6d0ab67")
 		(property "Reference" "SW25"
-			(at 167.64 67.31 0)
+			(at 167.64 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8282,15 +8492,15 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 167.64 69.85 0)
+			(at 167.64 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 167.64 69.85 0)
+		(property "Footprint" "keyswitches:Kailh_socket_MX"
+			(at 167.64 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8299,7 +8509,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 167.64 69.85 0)
+			(at 167.64 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8333,7 +8543,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 151.13 57.15 0)
+		(at 151.13 57.15 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8342,7 +8552,7 @@
 		(fields_autoplaced yes)
 		(uuid "72ec3aed-749f-4ce9-af06-e3eb39e967fc")
 		(property "Reference" "SW14"
-			(at 151.13 49.53 0)
+			(at 151.13 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8350,15 +8560,15 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 151.13 52.07 0)
+			(at 151.13 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 151.13 52.07 0)
+		(property "Footprint" "keyswitches:Kailh_socket_MX"
+			(at 151.13 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8367,7 +8577,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 151.13 52.07 0)
+			(at 151.13 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8753,7 +8963,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 224.79 74.93 0)
+		(at 224.79 74.93 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8762,7 +8972,7 @@
 		(fields_autoplaced yes)
 		(uuid "8f79e78c-de4d-4ff1-bd73-c3970b025ba1")
 		(property "Reference" "SW28"
-			(at 224.79 67.31 0)
+			(at 224.79 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8770,15 +8980,15 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 224.79 69.85 0)
+			(at 224.79 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 224.79 69.85 0)
+		(property "Footprint" "keyswitches:Kailh_socket_MX"
+			(at 224.79 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8787,7 +8997,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 224.79 69.85 0)
+			(at 224.79 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9064,7 +9274,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 208.28 39.37 0)
+		(at 208.28 39.37 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9073,7 +9283,7 @@
 		(fields_autoplaced yes)
 		(uuid "9726b60b-32c2-4be7-ac55-028d202f681d")
 		(property "Reference" "SW7"
-			(at 208.28 31.75 0)
+			(at 208.28 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9081,15 +9291,15 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 208.28 34.29 0)
+			(at 208.28 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 208.28 34.29 0)
+		(property "Footprint" "keyswitches:Kailh_socket_MX"
+			(at 208.28 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9098,7 +9308,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 208.28 34.29 0)
+			(at 208.28 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9132,7 +9342,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 241.3 92.71 0)
+		(at 241.3 92.71 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9141,7 +9351,7 @@
 		(fields_autoplaced yes)
 		(uuid "978309bc-10bd-49ab-93f5-861862a2cc74")
 		(property "Reference" "SW39"
-			(at 241.3 85.09 0)
+			(at 241.3 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9149,15 +9359,15 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 241.3 87.63 0)
+			(at 241.3 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 241.3 87.63 0)
+		(property "Footprint" "keyswitches:Kailh_socket_MX"
+			(at 241.3 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9166,7 +9376,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 241.3 87.63 0)
+			(at 241.3 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9574,7 +9784,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 101.6 92.71 0)
+		(at 101.6 92.71 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9583,7 +9793,7 @@
 		(fields_autoplaced yes)
 		(uuid "a52bdb53-05e5-4955-8b7c-f2fab036eb4b")
 		(property "Reference" "SW31"
-			(at 101.6 85.09 0)
+			(at 101.6 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9591,15 +9801,15 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 101.6 87.63 0)
+			(at 101.6 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 101.6 87.63 0)
+		(property "Footprint" "keyswitches:Kailh_socket_MX"
+			(at 101.6 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9608,7 +9818,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 101.6 87.63 0)
+			(at 101.6 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10082,7 +10292,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 257.81 57.15 0)
+		(at 257.81 57.15 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10091,7 +10301,7 @@
 		(fields_autoplaced yes)
 		(uuid "b33641d9-e573-4c16-9fb9-6d2032b873c2")
 		(property "Reference" "SW20"
-			(at 257.81 49.53 0)
+			(at 257.81 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10099,15 +10309,15 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 257.81 52.07 0)
+			(at 257.81 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 257.81 52.07 0)
+		(property "Footprint" "keyswitches:Kailh_socket_MX"
+			(at 257.81 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10116,7 +10326,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 257.81 52.07 0)
+			(at 257.81 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10150,7 +10360,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 134.62 92.71 0)
+		(at 134.62 92.71 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10159,7 +10369,7 @@
 		(fields_autoplaced yes)
 		(uuid "b4090686-330b-4407-89bf-141c168986ac")
 		(property "Reference" "SW33"
-			(at 134.62 85.09 0)
+			(at 134.62 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10167,15 +10377,15 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 134.62 87.63 0)
+			(at 134.62 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 134.62 87.63 0)
+		(property "Footprint" "keyswitches:Kailh_socket_MX"
+			(at 134.62 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10184,7 +10394,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 134.62 87.63 0)
+			(at 134.62 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10218,7 +10428,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 257.81 39.37 0)
+		(at 257.81 39.37 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10227,7 +10437,7 @@
 		(fields_autoplaced yes)
 		(uuid "b50a8116-3f48-479f-9548-fb35c5aaaf55")
 		(property "Reference" "SW10"
-			(at 257.81 31.75 0)
+			(at 257.81 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10235,15 +10445,15 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 257.81 34.29 0)
+			(at 257.81 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 257.81 34.29 0)
+		(property "Footprint" "keyswitches:Kailh_socket_MX"
+			(at 257.81 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10252,7 +10462,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 257.81 34.29 0)
+			(at 257.81 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10374,7 +10584,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 134.62 74.93 0)
+		(at 134.62 74.93 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10383,7 +10593,7 @@
 		(fields_autoplaced yes)
 		(uuid "b9b6a190-1401-4f09-9968-214e87d9f7e4")
 		(property "Reference" "SW23"
-			(at 134.62 67.31 0)
+			(at 134.62 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10391,15 +10601,15 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 134.62 69.85 0)
+			(at 134.62 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 134.62 69.85 0)
+		(property "Footprint" "keyswitches:Kailh_socket_MX"
+			(at 134.62 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10408,7 +10618,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 134.62 69.85 0)
+			(at 134.62 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10684,7 +10894,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 208.28 92.71 0)
+		(at 208.28 92.71 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10693,7 +10903,7 @@
 		(fields_autoplaced yes)
 		(uuid "cd73234d-c12f-41eb-90e5-37c7bb24d683")
 		(property "Reference" "SW37"
-			(at 208.28 85.09 0)
+			(at 208.28 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10701,15 +10911,15 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 208.28 87.63 0)
+			(at 208.28 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 208.28 87.63 0)
+		(property "Footprint" "keyswitches:Kailh_socket_MX"
+			(at 208.28 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10718,7 +10928,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 208.28 87.63 0)
+			(at 208.28 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10840,7 +11050,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 134.62 57.15 0)
+		(at 134.62 57.15 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10849,7 +11059,7 @@
 		(fields_autoplaced yes)
 		(uuid "d2770e2d-ff7e-46a5-932e-46516f257925")
 		(property "Reference" "SW13"
-			(at 134.62 49.53 0)
+			(at 134.62 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10857,15 +11067,15 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 134.62 52.07 0)
+			(at 134.62 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 134.62 52.07 0)
+		(property "Footprint" "keyswitches:Kailh_socket_MX"
+			(at 134.62 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10874,7 +11084,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 134.62 52.07 0)
+			(at 134.62 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11326,7 +11536,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 241.3 74.93 0)
+		(at 241.3 74.93 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11335,7 +11545,7 @@
 		(fields_autoplaced yes)
 		(uuid "e9ca924f-ae25-4e73-951c-53cf6327d305")
 		(property "Reference" "SW29"
-			(at 241.3 67.31 0)
+			(at 241.3 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11343,15 +11553,15 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 241.3 69.85 0)
+			(at 241.3 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 241.3 69.85 0)
+		(property "Footprint" "keyswitches:Kailh_socket_MX"
+			(at 241.3 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11360,7 +11570,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 241.3 69.85 0)
+			(at 241.3 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11420,7 +11630,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Module:RaspberryPi_Pico_SMD_HandSolder"
+		(property "Footprint" "Module:RaspberryPi_Pico_Common_Unspecified"
 			(at 43.18 106.68 0)
 			(effects
 				(font
@@ -11587,7 +11797,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 151.13 74.93 0)
+		(at 151.13 74.93 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11596,7 +11806,7 @@
 		(fields_autoplaced yes)
 		(uuid "ed860d19-7471-4ff5-9d57-222fdab43f7e")
 		(property "Reference" "SW24"
-			(at 151.13 67.31 0)
+			(at 151.13 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11604,15 +11814,15 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 151.13 69.85 0)
+			(at 151.13 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 151.13 69.85 0)
+		(property "Footprint" "keyswitches:Kailh_socket_MX"
+			(at 151.13 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11621,7 +11831,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 151.13 69.85 0)
+			(at 151.13 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11655,7 +11865,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 167.64 92.71 0)
+		(at 167.64 92.71 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11664,7 +11874,7 @@
 		(fields_autoplaced yes)
 		(uuid "edd44241-70d5-418b-8909-a677d2d65260")
 		(property "Reference" "SW35"
-			(at 167.64 85.09 0)
+			(at 167.64 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11672,15 +11882,15 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 167.64 87.63 0)
+			(at 167.64 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 167.64 87.63 0)
+		(property "Footprint" "keyswitches:Kailh_socket_MX"
+			(at 167.64 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11689,7 +11899,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 167.64 87.63 0)
+			(at 167.64 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11899,7 +12109,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 134.62 39.37 0)
+		(at 134.62 39.37 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11908,7 +12118,7 @@
 		(fields_autoplaced yes)
 		(uuid "f2022cd5-9348-4bea-ab10-fc62b26eb3a9")
 		(property "Reference" "SW3"
-			(at 134.62 31.75 0)
+			(at 134.62 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11916,15 +12126,15 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 134.62 34.29 0)
+			(at 134.62 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 134.62 34.29 0)
+		(property "Footprint" "keyswitches:Kailh_socket_MX"
+			(at 134.62 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11933,7 +12143,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 134.62 34.29 0)
+			(at 134.62 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12189,7 +12399,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 208.28 57.15 0)
+		(at 208.28 57.15 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12198,7 +12408,7 @@
 		(fields_autoplaced yes)
 		(uuid "fca6cd2d-287b-424c-9f79-9ef46700b144")
 		(property "Reference" "SW17"
-			(at 208.28 49.53 0)
+			(at 208.28 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12206,15 +12416,15 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 208.28 52.07 0)
+			(at 208.28 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 208.28 52.07 0)
+		(property "Footprint" "keyswitches:Kailh_socket_MX"
+			(at 208.28 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12223,7 +12433,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 208.28 52.07 0)
+			(at 208.28 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)

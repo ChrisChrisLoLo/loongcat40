@@ -5,4 +5,5 @@
   (lib (name "marbastlib-mx")(type "KiCad")(uri "/home/chriz/Code/loongcat40/pcb/marbastlib/footprints/marbastlib-mx.pretty")(options "")(descr ""))
   (lib (name "marbastlib-xp-gateron_lp")(type "KiCad")(uri "/home/chriz/Code/loongcat40/pcb/marbastlib/footprints/marbastlib-xp-gateron_lp.pretty")(options "")(descr ""))
   (lib (name "marbastlib-xp-choc")(type "KiCad")(uri "/home/chriz/Code/loongcat40/pcb/marbastlib/footprints/marbastlib-xp-choc.pretty")(options "")(descr ""))
+  (lib (name "keyswitches")(type "KiCad")(uri "/home/chriz/Code/loongcat40/pcb/keyswitches.pretty")(options "")(descr ""))
 )
