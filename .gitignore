@@ -39,4 +39,9 @@ fp-info-cache
 # Local project settings
 *.kicad_prl
 
+# Kicad and FreeCAD outputs
 */*outputs/
+**/*outputs/
+
+# FreeCAD backup files
+*.FCBak
