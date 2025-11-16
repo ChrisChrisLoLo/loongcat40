@@ -1,14 +1,15 @@
 # loongcat40
 A 4x10 gasket mounted keyboard featuring a large OLED. A culmination of 5 years of learning.
 
-<img src="https://raw.githubusercontent.com/ChrisChrisLoLo/loongcat40/master/images/PXL_20251116_045329065.jpg" width="500">
+<img src="https://github.com/ChrisChrisLoLo/loongcat40/blob/main/images/PXL_20251116_045329065.jpg?raw=true" width="500">
+
 
 ## status
 v0.1 pcbs have been produced but not yet tested.
 v0.0 pcbs have been produced. v0.0 has been been tested. The keyboard  largely works, though GPIO20 requires an external pullup resistor. This may have been due to the rp2040 dev board I was using.
 
 ## about
-<img src="https://raw.githubusercontent.com/ChrisChrisLoLo/loongcat40/master/images/PXL_20251116_045438397.jpg" width="500">
+<img src="https://github.com/ChrisChrisLoLo/loongcat40/blob/main/images/PXL_20251116_045438397.jpg?raw=true" width="500">
 
 
 ## case
@@ -40,7 +41,7 @@ You can find the PCB source files in the `pcb` folder. The BOM files can be foun
   - 1 PLA casetop
 - 12 5mm M2 screws
 - 4 rubber bumpons
-<img src="https://raw.githubusercontent.com/ChrisChrisLoLo/loongcat40/master/images/PXL_20251116_050432853.jpg" width="500">
+<img src="https://github.com/ChrisChrisLoLo/loongcat40/blob/main/images/PXL_20251116_050432853.jpg?raw=true" width="500">
 
 
 
@@ -63,10 +64,10 @@ You can find the QMK firmware for this project here: https://github.com/ChrisChr
 
 ## acknowledgements
 
-
-<img src="https://raw.githubusercontent.com/ChrisChrisLoLo/loongcat40/master/images/PXL_20251116_044838517.jpg" width="500">
+<img src="https://github.com/ChrisChrisLoLo/loongcat40/blob/main/images/PXL_20251116_044838517.jpg?raw=true" width="500">
 
 Big thank you to <> for the fantastic artwork used and displayed on this keyboard! Please check them out at
 
 Thank you to [NextPCB](https://www.nextpcb.com/) and all of my Github Sponsors for sponsoring and supporting this project!
-<img src="https://raw.githubusercontent.com/ChrisChrisLoLo/loongcat40/master/images/sponsor_logo.png" width="500">
+
+<img src="https://github.com/ChrisChrisLoLo/loongcat40/blob/main/images/sponsor_logo.png?raw=true" width="200">
