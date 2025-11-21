@@ -66,7 +66,7 @@ You can find the QMK firmware for this project here: https://github.com/ChrisChr
 
 <img src="https://github.com/ChrisChrisLoLo/loongcat40/blob/main/images/PXL_20251116_044838517.jpg?raw=true" width="500">
 
-Big thank you to <> for the fantastic artwork used and displayed on this keyboard! Please check them out at
+Big thank you to [@suh_ga](https://x.com/suh_ga) for the fantastic artwork used and displayed on this keyboard! Please check her out at https://twitter.com/suh_ga!
 
 Thank you to [NextPCB](https://www.nextpcb.com/) and all of my Github Sponsors for sponsoring and supporting this project!
 
