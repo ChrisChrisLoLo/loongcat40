@@ -5,8 +5,9 @@ A 4x10 gasket mounted keyboard featuring a large OLED. A culmination of 5 years 
 
 
 ## status
-v0.1 pcbs have been produced but not yet tested.
-v0.0 pcbs have been produced. v0.0 has been been tested. The keyboard  largely works, though GPIO20 requires an external pullup resistor. This may have been due to the rp2040 dev board I was using.
+- v0.1 pcbs have been produced but not yet tested.
+- v0.0 pcbs have been produced. v0.0 has been been tested.
+  - The keyboard largely works, though GPIO20 requires an external pullup resistor. This may have been due to the rp2040 dev board I was using.
 
 ## about
 <img src="https://github.com/ChrisChrisLoLo/loongcat40/blob/main/images/PXL_20251116_045438397.jpg?raw=true" width="500">
